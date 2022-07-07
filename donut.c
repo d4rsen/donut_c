@@ -20,7 +20,14 @@ int main() {
           t = c * h * g - f * c;
 
           int x = 40 + 30 * D * (l * h * m - t * n);
+          int y = 12 + 15 * D * (l * h * n + t * m), o = x + 80 * y,
+            N = 8 * ((f * e - c * d * g) * m - c * d * e - f * g - l * d * n);
           
+          if(22 > y && y > 0 && 80 > x && D > z[o]) {
+            z[o] = D;
+            b[o] = ".,-~:;=!*#$@:"[N > 0 ? N : 0];
+            
+          }
       }
     }
   }
